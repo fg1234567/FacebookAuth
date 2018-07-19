@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://facebookauthtest0.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">228653230542</string>
+  <string name="google_storage_bucket" translatable="false">facebookauthtest0.appspot.com</string>
+  <string name="project_id" translatable="false">facebookauthtest0</string>
+  <string name="google_api_key" translatable="false">AIzaSyAYoeWks8kxJ1v14yxWlOgKy22gZ1mbuPE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYoeWks8kxJ1v14yxWlOgKy22gZ1mbuPE</string>
+  <string name="google_app_id" translatable="false">1:228653230542:android:af50859427d5048b</string>
+  <string name="default_web_client_id" translatable="false">228653230542-7cneokauhbjofhedvigfn1tratlm20lb.apps.googleusercontent.com</string>
+</resources>

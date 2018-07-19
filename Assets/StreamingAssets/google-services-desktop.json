@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "228653230542",
+    "firebase_url": "https://facebookauthtest0.firebaseio.com",
+    "project_id": "facebookauthtest0",
+    "storage_bucket": "facebookauthtest0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228653230542:android:af50859427d5048b",
+        "android_client_info": {
+          "package_name": "com.FG.FacebookAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228653230542-7cneokauhbjofhedvigfn1tratlm20lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYoeWks8kxJ1v14yxWlOgKy22gZ1mbuPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
